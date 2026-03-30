@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.car-container {
+  display: flex;
+  justify-content: center;
+}
+.car-container div {
+  margin: 10px;
+}
