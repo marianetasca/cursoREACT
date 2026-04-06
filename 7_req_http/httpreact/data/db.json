@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "eee",
+      "price": "12",
+      "id": "XZZNKKXuiUw"
+    },
+    {
+      "name": "eee",
+      "price": "12",
+      "id": "O7I4WsnEY-M"
+    },
+    {
+      "name": "eee",
+      "price": "12",
+      "id": "tpiYPYK1iWw"
+    },
+    {
+      "name": "re",
+      "price": "12",
+      "id": "K-qfl8I716Q"
+    },
+    {
+      "name": "uu",
+      "price": "33",
+      "id": "otHwFqAdfkg"
+    },
+    {
+      "name": "re",
+      "price": "33",
+      "id": "GPUmZIusYlQ"
+    },
+    {
+      "name": "a",
+      "price": "1",
+      "id": "8-ICnBhQgT0"
+    },
+    {
+      "name": "t",
+      "price": "32",
+      "id": "MdiSXyXPWFA"
+    },
+    {
+      "name": "a",
+      "price": "1",
+      "id": "ai40pLN3gjc"
+    },
+    {
+      "name": "2",
+      "price": "7",
+      "id": "MBX9_YAt0yc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
